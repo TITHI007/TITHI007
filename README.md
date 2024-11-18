@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning upcoming technologies in the world of Data Science.<br><br>👯 I’m looking to collaborate on the projects which leverage the power of LLMs to develop innovative solutions to real-world issues.<br><br>⚡I enjoy learning and spreading my knowledge. And I have also been tutoring students with all the state-of-art technologies.<br><br>📫 You can reach out to me on tithi.patel107@gmail.com</p>
+<p align="left">🌱 I’m currently learning upcoming technologies in the world of Data Science.<br><br>👯 I’m looking to collaborate on the projects which leverage the power of LLMs to develop innovative solutions to real-world issues.<br><br>⚡I enjoy excelling my skills and using them as required in the project. And I have also been tutoring students with all the state-of-art technologies.<br><br>📫 You can reach out to me on tithi.patel107@gmail.com</p>
 
 ###
 
