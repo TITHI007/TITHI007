@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">Problem-Solver with a Data-Driven Mindset</h6>
+<h6 align="center">Software-Savvy Problem-Solver Leveraging Data Insights</h6>
 
 ###
 
