@@ -14,8 +14,8 @@ Backend: Node.js, Python (Django, Flask), Ruby on rails<br><br>
 Database Systems: SQL, NoSQL (Document-based)<br><br>
 Cloud: AWS, GCP<br><br>
 Programming: C++ ,Java ,Python ,JavaScript ,C#<br><br>
-Hardware: Arduino, Meta Oculus, Raspberry Pi<br><br>
-📫 You can reach out to me on tithi.patel107@gmail.com</p>
+Hardware: Arduino, Meta Oculus, Raspberry Pi</p>
+<!-- 📫 You can reach out to me on tithi.patel107@gmail.com</p> -->
 
 ###
 
