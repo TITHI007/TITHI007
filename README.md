@@ -19,10 +19,6 @@ Hardware: Arduino, Meta Oculus, Raspberry Pi<br><br>
 
 ###
 
-<p align="left">Check out paper which I have worked on:<br><a href="https://ceur-ws.org/Vol-3395/T7-1.pdf" target="_blank">Overview of the HASOC Subtrack at FIRE 2022: Identification of Conversational Hate-Speech in Hindi-English Code-Mixed and German Language</a></p>
-
-###
-
 <h5 align="left">Tech Stack</h5>
 
 ###
