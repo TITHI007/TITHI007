@@ -6,7 +6,16 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning upcoming technologies in the world of Data Science.<br>I recently participated in a 5-Day Generative AI Intensive Course with Google, where I gained knowledge in: Foundational Models & Prompt Engineering, Embeddings and Vector Stores/Databases, Generative AI Agents, Domain-Specific LLMs and more. <br><br>👯 I’m looking to collaborate on the projects which leverage the power of Data science alaong with LLMs to develop innovative solutions to real-world issues.<br><br>⚡I enjoy excelling my skills and using them as required in the project. And I have also been tutoring students with all the state-of-art technologies.<br><br>📫 You can reach out to me on tithi.patel107@gmail.com</p>
+<p align="left">A highly motivated and results-driven Computer Engineer with foundational experience in software development and data-driven strategies. Passionate about building innovative and scalable solutions. Proven ability to deliver high-quality code and contribute to all phases of the software development lifecycle.  Adept at problem-solving and collaborating within agile teams.  Eager to explore new technologies and contribute to challenging projects.  Let's connect and discuss the future of tech.
+<br><br>
+Tech Stack<br><br>
+Frontend: HTML, CSS, React , Vue.js<br><br>
+Backend: Node.js, Python (Django, Flask), Ruby on rails<br><br>
+Database Systems: SQL, NoSQL (Document-based)<br><br>
+Cloud: AWS, GCP<br><br>
+Programming: C++ ,Java ,Python ,JavaScript ,C#<br><br>
+Hardware: Arduino, Meta Oculus, Raspberry Pi<br><br>
+<br><br>📫 You can reach out to me on tithi.patel107@gmail.com</p>
 
 ###
 
